@@ -1,7 +1,5 @@
 ABL-balanced.cpp	Check if tree is ABL-balanced
-
-MST.cpp	Finding weight of a minimum spanning tree	
-
+MST.cpp	Finding weight of a minimum spanning tree
 articulation points.cpp	Finding articulation points in graph
 bridges.cpp	Finding bridges in graph
 check red_black tree.cpp	Check if the binary tree is red-black tree
