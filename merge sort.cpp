@@ -21,6 +21,7 @@ void merge(Iter begin1, Iter end1, Iter begin2, Iter end2, Iter it3) {
     }
 }
 
+
 template <typename Iter>
 void sort_merge(Iter begin, Iter end, Iter it3) {
     if (begin != end) {
